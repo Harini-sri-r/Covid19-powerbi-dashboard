@@ -35,3 +35,8 @@ How to Use
 
 1. Download the covid_analysis.pbix file
 2. Open using Power BI Desktop
+
+Dataset
+Due to file size limitations, the dataset is hosted externally.
+
+🔗 Download Dataset: https://drive.google.com/file/d/1HYbXU5-1aOsI6mn3GGvR1WLftPjPncD2/view?usp=sharing
